@@ -1,0 +1,3 @@
+﻿  sampleFasterRCNN.cpp
+e:\visual studio 2017\tensorrt-5.0.4.3.windows10.x86_64.cuda-10.0.cudnn7.3\tensorrt-5.0.4.3\samples\samplefasterrcnn\ffmpeg\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  sample_fasterRCNN.vcxproj -> E:\Visual studio 2017\TensorRT-5.0.4.3.Windows10.x86_64.cuda-10.0.cudnn7.3\TensorRT-5.0.4.3\samples\sampleFasterRCNN\\..\..\bin\sample_fasterRCNN.exe
